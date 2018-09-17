@@ -14,7 +14,7 @@
 | 2017-05| Study Closure                     | Js Closure |[連結](https://github.com/JiaHongL/study-closure)  |
 | 2017-07| NPM + Gulp Demo                   | 套件管理與自動化工具 |[連結](https://github.com/JiaHongL/gulp-demo)  |
 | 2017-08| Webpack Demo                      | 打包工具 |[連結](https://github.com/JiaHongL/webpack-demo)  |
-| 2017-08| Angular Dynamic-Component-Loader  | 動態組件 |[連結](https://github.com/JiaHongL/Dynamic-Component-Loader)|
+| 2017-09| Angular Dynamic-Component-Loader  | 動態組件 |[連結](https://github.com/JiaHongL/Dynamic-Component-Loader)|
 | 2017-10| Flexbox Demo                      | Css排版 |[連結](https://github.com/JiaHongL/flexbox-demo)  |
 | 2017-12| Docker Demo                       | 輕量化虛擬容器 |[連結](https://github.com/JiaHongL/docker-demo)  |
 
