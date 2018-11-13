@@ -28,3 +28,5 @@
 | 2018-07| Grid Layout 首部曲：原生網格的崛起                 | Css排版 |[連結](https://jhlstudy.blogspot.com/2018/07/grid-layout.html)  |
 | 2018-07| Grid Layout 二部曲：流動排列與隱式網格的小藏識       | Css排版 |[連結](https://jhlstudy.blogspot.com/2018/07/grid-layout_8.html)  |
 | 2018-07| Grid Layout 三部曲：auto-fill ? auto-fit ? 我們不一樣。    | Css排版 |[連結](https://jhlstudy.blogspot.com/2018/07/grid-layout-auto-fill-auto-fit_8.html)  |
+| 2018-10| 動物認養 (Angular6 + Firebase)    | Angular |[連結](https://github.com/JiaHongL/animal)  |
+
