@@ -36,3 +36,4 @@
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2019-06| Typescript：先別管強型別了，你聽過enum嗎？ | TypeScript |[連結](https://jhlstudy.blogspot.com/2019/06/enum.html)  |
+| 2019-09| 動物認養 v2 | Unit Test |[連結](https://github.com/JiaHongL/animal-v2)  |
