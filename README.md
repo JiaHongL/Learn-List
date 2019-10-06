@@ -37,3 +37,4 @@
 | ------| ------ | ------ | ------ |
 | 2019-06| Typescript：先別管強型別了，你聽過enum嗎？ | TypeScript |[連結](https://jhlstudy.blogspot.com/2019/06/enum.html)  |
 | 2019-09| 動物認養 v2 | Unit Test |[連結](https://github.com/JiaHongL/animal-v2)  |
+| 2019-10| jasmine-cheat-sheet | 整理一份 jasmine 的 cheat sheet |[連結](https://github.com/JiaHongL/jasmine-cheat-sheet)  |
