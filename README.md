@@ -39,3 +39,4 @@
 | 2019-09| 動物認養 v2 | Unit Test |[連結](https://github.com/JiaHongL/animal-v2)  |
 | 2019-10| jasmine-cheat-sheet | 整理一份 jasmine 的 cheat sheet |[連結](https://github.com/JiaHongL/jasmine-cheat-sheet)  |
 | 2019-10| 學習Jasmine的技巧 + 測試異步的四種方式  | jasmine + async test |[連結](https://jhlstudy.blogspot.com/2019/10/angular-unit-test-jasmine.html)  |
+| 2019-12| command-line-tips | 練習做像 cli 的小工具 |[連結](https://github.com/JiaHongL/command-line-tips) |  
