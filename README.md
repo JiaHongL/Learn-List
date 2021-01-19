@@ -1,6 +1,19 @@
 
 # 筆記彙整
 
+## 2021
+
+| 時間 | 項目 | 學習內容 | 備註 |
+| ------| ------ | ------ | ------ |
+| Schematic 詞彙篇 : 他們說我是沒有用的小章節 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematic_63.html)  |
+| Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
+
+## 2020
+
+| 時間 | 項目 | 學習內容 | 備註 |
+| ------| ------ | ------ | ------ |
+| 2019-10| Angular-devkit , 翻譯翻譯神馬叫 Schematics ！ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2020/10/angular-devkit-schematics.html)  |
+
 ## 2019
 
 | 時間 | 項目 | 學習內容 | 備註 |
