@@ -5,8 +5,8 @@
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
-| Schematic 詞彙篇 : 他們說我是沒有用的小章節 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematic_63.html)  |
-| Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
+| 2020-01|Schematic 詞彙篇 : 他們說我是沒有用的小章節 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematic_63.html)  |
+| 2020-01|Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
 
 ## 2020
 
