@@ -5,14 +5,18 @@
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
-| 2020-01|Schematic 詞彙篇 : 他們說我是沒有用的小章節 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematic_63.html)  |
-| 2020-01|Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
+| 2021-01|Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
+| 2021-01|Schematic 詞彙篇 : 他們說我是沒有用的小章節 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematic_63.html)  |
+| 2021-01|Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
+| 2021-01|Schematics : 如何進行本地測試？ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics.html)  |
+| 2021-01|ng new : 你會不會和我一樣，把一切都寄託 new 身上。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/ng-new-new.html)  |
+| 2021-02|Schematics Prompts : 你寫 code 幾個天?，再堅持幾年我們再來討論! | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/02/schematics-prompts-code_14.html)  |
 
 ## 2020
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
-| 2019-10| Angular-devkit , 翻譯翻譯神馬叫 Schematics ！ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2020/10/angular-devkit-schematics.html)  |
+| 2012-10| Angular-devkit , 翻譯翻譯神馬叫 Schematics ！ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2020/10/angular-devkit-schematics.html)  |
 
 ## 2019
 
