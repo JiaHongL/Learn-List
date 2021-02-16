@@ -5,7 +5,7 @@
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
-| 2021-01|Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
+| 2021-01|Angular-devkit , 翻譯翻譯神馬叫 Schematics ！ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2020/10/angular-devkit-schematics.html)  |
 | 2021-01|Schematic 詞彙篇 : 他們說我是沒有用的小章節 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematic_63.html)  |
 | 2021-01|Schematics : 我知道我是沒有用的 Hello World 。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics-hello-world.html)  |
 | 2021-01|Schematics : 如何進行本地測試？ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics.html)  |
