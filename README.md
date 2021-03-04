@@ -11,6 +11,7 @@
 | 2021-01|Schematics : 如何進行本地測試？ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/schematics.html)  |
 | 2021-01|ng new : 你會不會和我一樣，把一切都寄託 new 身上。 | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/01/ng-new-new.html)  |
 | 2021-02|Schematics Prompts : 你寫 code 幾個天?，再堅持幾年我們再來討論! | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/02/schematics-prompts-code_14.html)  |
+| 2021-03|ng generate : 我們只喜歡小確幸，放棄去改變複製貼上。| Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/03/ng-generate.html)  |
 
 ## 2020
 
