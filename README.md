@@ -5,6 +5,8 @@
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2022-04|[有聲版] Angular ControlValueAccessor 介紹與實作 | 客製表單控制 |[連結](https://jhlstudy.blogspot.com/2022/04/angular-controlvalueaccessor.html) |
+| 2022-07|[有聲版] Angular Strict Typed Forms 強型別表單 簡易示範 | 強型別表單 |[連結](https://jhlstudy.blogspot.com/2022/07/angular-strict-typed-forms.html) |
+
 
 ## 2021
 
