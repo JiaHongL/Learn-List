@@ -25,7 +25,7 @@
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
-| 2012-10| Angular-devkit , 翻譯翻譯神馬叫 Schematics ！ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2020/10/angular-devkit-schematics.html)  |
+| 2020-10| Angular-devkit , 翻譯翻譯神馬叫 Schematics ！ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2020/10/angular-devkit-schematics.html)  |
 
 ## 2019
 
