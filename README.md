@@ -8,7 +8,7 @@
 | 2022-07|[有聲版] Angular Strict Typed Forms 強型別表單 簡易示範 | 強型別表單 |[連結](https://jhlstudy.blogspot.com/2022/07/angular-strict-typed-forms.html) |
 | 2022-10|[有聲版] 其實本來只是想講講 defer | rxjs cold / hot / warm obs |[連結](https://jhlstudy.blogspot.com/2022/10/defer.html) |
 | 2022-10|jwt-refresh-token-mock-backend | nestJs |[連結](https://github.com/JiaHongL/jwt-refresh-token-mock-backend) |
-| 2022-10|ng-refresh-token-demo| jwt refresh token |[連結](https://github.com/JiaHongL/ng-refresh-token-demo) |
+| 2022-10|[有聲版] 前端刷 token ，這次就弄懂 !| jwt refresh token |[連結](https://jhlstudy.blogspot.com/2022/11/token_18.html) |
 
 ## 2021
 
