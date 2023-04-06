@@ -4,6 +4,11 @@
 ## 2022
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
+| 2023-04| 開發一套 ChatGPT 的 輔助工具，並上架於 chrome web store | 改善 ChatGPT 的使用體驗，並提供更快速、更實用的 UI 介面與功能，以協助使用者更輕鬆地操作 ChatGPT。 |[連結](https://github.com/JiaHongL/Chat-GPT-Custom-Prompt-Extension) |
+
+## 2022
+| 時間 | 項目 | 學習內容 | 備註 |
+| ------| ------ | ------ | ------ |
 | 2022-04|[有聲版] Angular ControlValueAccessor 介紹與實作 | 客製表單控制 |[連結](https://jhlstudy.blogspot.com/2022/04/angular-controlvalueaccessor.html) |
 | 2022-05| ng-tailwind-css-pricing | TailwindCss 切版練習 |[連結](https://github.com/JiaHongL/ng-tailwind-css-pricing) |
 | 2022-05| ng-tailwind-css-facebook  | TailwindCss 切版練習 |[連結](https://github.com/JiaHongL/ng-tailwind-css-facebook) |
