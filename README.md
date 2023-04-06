@@ -1,7 +1,7 @@
 
 # 筆記彙整
 
-## 2022
+## 202
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2023-04| 開發一套 ChatGPT 的 輔助工具，並上架於 chrome web store | 改善 ChatGPT 的使用體驗，並提供更快速、更實用的 UI 介面與功能，以協助使用者更輕鬆地操作 ChatGPT。 |[連結](https://github.com/JiaHongL/Chat-GPT-Custom-Prompt-Extension) |
