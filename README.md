@@ -1,13 +1,13 @@
 
-# 筆記彙整
+# 筆記彙整 總計：75篇
 
-## 2023
+## 2023 共2篇
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2023-04| 開發一套 ChatGPT 的 輔助工具，並上架於 chrome web store | 改善 ChatGPT 的使用體驗，並提供更快速、更實用的 UI 介面與功能，以協助使用者更輕鬆地操作 ChatGPT。 |[連結](https://github.com/JiaHongL/Chat-GPT-Custom-Prompt-Extension) |
 | 2023-04| 使用 Angular 開發 Chrome Extension | 嘗試使用 Angular 開發 Chrome Extension 的 可行性 |[連結](https://jhlstudy.blogspot.com/2023/04/angular-chrome-extension.html) |
 
-## 2022
+## 2022 共8篇
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2022-04|[有聲版] Angular ControlValueAccessor 介紹與實作 | 客製表單控制 |[連結](https://jhlstudy.blogspot.com/2022/04/angular-controlvalueaccessor.html) |
@@ -19,7 +19,7 @@
 | 2022-10|[有聲版] 前端刷 token ，這次就弄懂 !| angular jwt refresh token |[連結](https://jhlstudy.blogspot.com/2022/11/token_18.html) |
 | 2022-12|react-refresh-token-demo| react jwt refresh token |[連結](https://github.com/JiaHongL/react-refresh-token-demo) |
 
-## 2021
+## 2021 共8篇
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
@@ -32,13 +32,13 @@
 | 2021-03|ng generate : 我們只喜歡小確幸，放棄去改變複製貼上。| Angular Schematics |[連結](https://jhlstudy.blogspot.com/2021/03/ng-generate.html)  |
 | 2021-12|Angular Unit Test Demo| Angular Unit Test |[連結](https://github.com/JiaHongL/angular-unit-test-demo) |
 
-## 2020
+## 2020 共1篇
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2020-10| Angular-devkit , 翻譯翻譯神馬叫 Schematics ！ | Angular Schematics |[連結](https://jhlstudy.blogspot.com/2020/10/angular-devkit-schematics.html)  |
 
-## 2019
+## 2019 共5篇
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
@@ -48,7 +48,7 @@
 | 2019-10| 學習Jasmine的技巧 + 測試異步的四種方式  | jasmine + async test |[連結](https://jhlstudy.blogspot.com/2019/10/angular-unit-test-jasmine.html)  |
 | 2019-12| command-line-tips | 練習做 cli 的 小工具 |[連結](https://github.com/JiaHongL/command-line-tips) |  
 
-## 2018
+## 2018 共7篇
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
@@ -60,7 +60,7 @@
 | 2018-07| Grid Layout 三部曲：auto-fill ? auto-fit ? 我們不一樣。    | Css排版 |[連結](https://jhlstudy.blogspot.com/2018/07/grid-layout-auto-fill-auto-fit_8.html)  |
 | 2018-10| 動物認養 (Angular6 + Firebase)    | Angular |[連結](https://github.com/JiaHongL/animal)  |
 
-## 2017
+## 2017 共12篇
 
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
@@ -77,7 +77,7 @@
 | 2017-10| Flexbox Demo                      | Css排版 |[連結](https://github.com/JiaHongL/flexbox-demo)  |
 | 2017-12| Docker Demo                       | 輕量化虛擬容器 |[連結](https://github.com/JiaHongL/docker-demo)  |
 
-## 2016
+## 2016 共13篇
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2016-04 | Angular 2 Beta.15 初探 | Angular |[連結](https://jhlstudy.blogspot.com/2016/04/angular-2-beta_23.html)  |  
@@ -94,7 +94,7 @@
 | 2016-12 | Linebot 小試 | Linebot |[連結](https://jhlstudy.blogspot.com/2016/12/linebot.html)  |  
 | 2016-12 | 使用Typescript寫Angular 1.x | Typescript |[連結](https://jhlstudy.blogspot.com/2016/12/typescriptangular-1x.html)  |  
 
-## 2015
+## 2015 共19篇
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2015 | Jquery 基礎筆記 | 前端入門 |[連結](https://jhlstudy.blogspot.com/2016/04/jquery.html)  |  
