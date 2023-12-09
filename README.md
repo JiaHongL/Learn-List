@@ -6,6 +6,7 @@
 | ------| ------ | ------ | ------ |
 | 2023-04| 開發一套 ChatGPT 的 輔助工具，並上架於 chrome web store | 改善 ChatGPT 的使用體驗，並提供更快速、更實用的 UI 介面與功能，以協助使用者更輕鬆地操作 ChatGPT。 |[連結](https://github.com/JiaHongL/Chat-GPT-Custom-Prompt-Extension) |
 | 2023-04| 使用 Angular 開發 Chrome Extension | 嘗試使用 Angular 開發 Chrome Extension 的 可行性 |[連結](https://jhlstudy.blogspot.com/2023/04/angular-chrome-extension.html) |
+| 2023-12| 使用 Angular 開發 Chrome Extension：配置自動刷新的開發環境 | 配置自動刷新的開發環境 |[連結](https://jhlstudy.blogspot.com/2023/12/angular-chrome-extension.html) |
 
 ## 2022 共 8 篇
 | 時間 | 項目 | 學習內容 | 備註 |
