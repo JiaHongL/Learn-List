@@ -1,5 +1,10 @@
 
-# 筆記彙整 總計：78 篇
+# 筆記彙整 總計：79 篇
+
+## 2024 共 1 篇
+| 時間 | 項目 | 學習內容 | 備註 |
+| ------| ------ | ------ | ------ |
+| 2024-03| 使用 Angular + Signals 做個 TodoMVC | 學習 signal 相關概念與練習。 |[連結](https://jhlstudy.blogspot.com/2024/03/angular-signals-todomvc.html) |
 
 ## 2023 共 5 篇
 | 時間 | 項目 | 學習內容 | 備註 |
