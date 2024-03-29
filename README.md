@@ -1,10 +1,12 @@
 
-# 筆記彙整 總計：79 篇
+# 筆記彙整 總計：80 篇
 
 ## 2024 共 1 篇
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2024-03| 使用 Angular + Signals 做個 TodoMVC | 學習 signal 相關概念與練習。 |[連結](https://jhlstudy.blogspot.com/2024/03/angular-signals-todomvc.html) |
+| 2023-04| 開發一套右鍵快速查詢線上字典的工具，並上架於 chrome web store | 改善線上查詢字典時的使用體驗。 |[連結](https://github.com/JiaHongL/QuickLookup) |
+
 
 ## 2023 共 5 篇
 | 時間 | 項目 | 學習內容 | 備註 |
