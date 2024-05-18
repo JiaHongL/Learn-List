@@ -1,13 +1,14 @@
 
-# 筆記彙整 總計：82 篇
+# 筆記彙整 總計：83 篇
 
-## 2024 共 3 篇
+## 2024 共 5 篇
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2024-03| 使用 Angular + Signals + SSR + PWA 做個 TodoMVC | 學習 signal 相關概念與練習 SSR + PWA 配置。 |[連結](https://jhlstudy.blogspot.com/2024/03/angular-signals-todomvc.html) |
 | 2024-04| 開發一套右鍵快速查詢線上字典的工具，並上架於 chrome web store | 改善線上查詢字典時的使用體驗。 |[連結](https://github.com/JiaHongL/QuickLookup) |
 | 2024-04| 使用 Angular 開發 Chrome Extension：配置 popup.html 與 options.html | 使用 Angular 開發 Chrome Extension 體驗。 |[連結](https://jhlstudy.blogspot.com/2024/04/angular-chrome-extension-popuphtml_56.html) |
 | 2024-04| todomvc-backend | nestJs |[連結](https://github.com/JiaHongL/todomvc-backend) |
+| 2024-05| vue-todomvc | 練習 Vue + Pinia |[連結](https://github.com/JiaHongL/vue-todomvc) |
 
 ## 2023 共 5 篇
 | 時間 | 項目 | 學習內容 | 備註 |
