@@ -1,7 +1,7 @@
 
-# 筆記彙整 總計：84 篇
+# 筆記彙整 總計：85 篇
 
-## 2024 共 6 篇
+## 2024 共 7 篇
 | 時間 | 項目 | 學習內容 | 備註 |
 | ------| ------ | ------ | ------ |
 | 2024-03| 使用 Angular + Signals + SSR + PWA 做個 TodoMVC | 學習 signal 相關概念與練習 SSR + PWA 配置。 |[連結](https://jhlstudy.blogspot.com/2024/03/angular-signals-todomvc.html) |
@@ -10,6 +10,8 @@
 | 2024-04| todomvc-backend | nestJs |[連結](https://github.com/JiaHongL/todomvc-backend) |
 | 2024-05| vue-todomvc | 練習 Vue + Pinia |[連結](https://github.com/JiaHongL/vue-todomvc) |
 | 2024-05| chat-app-backend | 這是一個可以用來練習 web socket 的後端專案。 |[連結](https://github.com/JiaHongL/chat-app-backend) |
+| 2024-05| ng-chat-app | 練習 Angular + @ngrx/signals。 |[連結](https://jhlstudy.blogspot.com/2024/05/angular-ngrxsignals.html) |
+| 2024-06| vue-chat-app | 練習 Vue + pinia。 |[連結](https://jhlstudy.blogspot.com/2024/06/vue-pinia_21.html) |
 
 ## 2023 共 5 篇
 | 時間 | 項目 | 學習內容 | 備註 |
