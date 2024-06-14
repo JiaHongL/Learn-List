@@ -1,5 +1,5 @@
 
-# 筆記彙整 總計：86 篇
+# 筆記彙整 總計：87 篇
 
 ## 2024 共 8 篇
 | 時間 | 項目 | 學習內容 | 備註 |
@@ -12,6 +12,7 @@
 | 2024-05| chat-app-backend | 這是一個可以用來練習 web socket 的後端專案。 |[連結](https://github.com/JiaHongL/chat-app-backend) |
 | 2024-05| ng-chat-app | 練習 Angular + @ngrx/signals。 |[連結](https://jhlstudy.blogspot.com/2024/05/angular-ngrxsignals.html) |
 | 2024-06| vue-chat-app | 練習 Vue + pinia。 |[連結](https://jhlstudy.blogspot.com/2024/06/vue-pinia_21.html) |
+| 2024-06| Pinia Store 的單元測試 | 練習使用 Vitest 撰寫單元測試。 |[連結](https://jhlstudy.blogspot.com/2024/06/pinia-store.html) |
 
 ## 2023 共 5 篇
 | 時間 | 項目 | 學習內容 | 備註 |
